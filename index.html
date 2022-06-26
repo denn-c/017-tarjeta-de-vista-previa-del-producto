@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="asset/icon/favicon-32x32.png"
+      type="image/x-icon"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Tarjeta de vista previa del producto</title>
+  </head>
+  <body>
+    <article class="articulo">
+      <picture class="imagen">
+        <source
+          media="(min-width: 601px)"
+          srcset="asset/images/desktop/image-product-desktop.jpg"
+        />
+        <img
+          src="asset/images/mobile/image-product-mobile.jpg"
+          alt="Imagen de una mujer"
+        />
+      </picture>
+      <section class="contenido">
+        <em class="producto">Perfume</em>
+        <h1 class="titulo">Gabrielle Essence Eau De Parfum</h1>
+        <p class="descripcion">
+          Una interpretación floral, solar y voluptuosa compuesta por Olivier
+          Polge, Perfumista-Creador de la Casa de CHANEL.
+        </p>
+        <p class="precio">
+          <strong class="precio__actual">$149.99</strong>
+          <span class="precio__antes">$169.99</span>
+        </p>
+        <a href="#" class="carrito">
+          <img
+            src="asset/icon/icon-cart.svg"
+            alt="Añadir al carrito"
+            class="carrito__imagen"
+          />
+          <span class="carrito__texto">Añadir al carrito</span>
+        </a>
+      </section>
+    </article>
+  </body>
+</html>
