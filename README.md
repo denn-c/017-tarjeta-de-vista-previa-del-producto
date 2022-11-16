@@ -1,5 +1,5 @@
 
-#componente tarjeta de vista previa del producto
+# componente tarjeta de vista previa del producto
 
 Esta es una solución al [desafío del componente tarjeta de vista previa del producto en Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).
 
