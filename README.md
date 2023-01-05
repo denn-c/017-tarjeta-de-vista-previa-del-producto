@@ -35,8 +35,8 @@ Los usuarios deben ser capaces de:
 
 ### Enlaces
 
-- URL de la solución: [https://github.com/denn-c/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-del-producto](https://github.com/denn-c/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-del-producto)
-- URL del sitio en vivo: [https://denn-c.github.io/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-del-producto/](https://denn-c.github.io/WEB-PRINCIPIANTE-tarjeta-de-vista-previa-del-producto/)
+- URL de la solución: https://github.com/denn-c/tarjeta-de-vista-previa-del-producto/](https://github.com/denn-c/tarjeta-de-vista-previa-del-producto/)
+- URL del sitio en vivo: https://denn-c.github.io/tarjeta-de-vista-previa-del-producto/](https://denn-c.github.io/tarjeta-de-vista-previa-del-producto/)
 
 ## Mi proceso
 
