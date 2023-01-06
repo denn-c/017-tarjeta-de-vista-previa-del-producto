@@ -62,7 +62,7 @@ Fragmentos de código con mayor relevancia en este proyecto.
     />
     <img
       src="asset/images/mobile/image-product-mobile.jpg"
-      alt="Imagen de una mujer"
+      alt="Imagen deL producto"
     />
 </picture>
 ```
